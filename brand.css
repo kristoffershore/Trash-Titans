@@ -23,8 +23,7 @@ h1 em, h2 em { color: var(--yellow); }
 .proof-strip span { color: var(--yellow); }
 
 .hero-visual {
-  background: linear-gradient(145deg, #202326, #090a0b 72%);
-  border-color: #090a0b;
+  background: linear-gradient(145deg, #53585d, #313438 72%);  border-color: #090a0b;
   box-shadow: 12px 12px 0 var(--yellow);
   isolation: isolate;
 }
